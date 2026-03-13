@@ -33,3 +33,9 @@ body{
     background-color: black;
     text-align: center;
 }
+@media screen and (max-width: 800px) {
+img {
+width:70%;
+height:auto;
+}
+}
